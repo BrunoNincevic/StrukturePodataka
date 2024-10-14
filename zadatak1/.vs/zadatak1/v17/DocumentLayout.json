@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nince\\source\\repos\\zadatak1\\",
+  "WorkspaceRootPath": "C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05666600-D64F-4441-A7AC-8B8290B8CCDD}|zadatak1\\zadatak1.vcxproj|C:\\Users\\nince\\source\\repos\\zadatak1\\zadatak1\\zad1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{05666600-D64F-4441-A7AC-8B8290B8CCDD}|zadatak1\\zadatak1.vcxproj|C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\zadatak1\\imena.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05666600-D64F-4441-A7AC-8B8290B8CCDD}|zadatak1\\zadatak1.vcxproj|solutionrelative:zadatak1\\imena.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05666600-D64F-4441-A7AC-8B8290B8CCDD}|zadatak1\\zadatak1.vcxproj|C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\zadatak1\\zad1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{05666600-D64F-4441-A7AC-8B8290B8CCDD}|zadatak1\\zadatak1.vcxproj|solutionrelative:zadatak1\\zad1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zad1.c",
-              "DocumentMoniker": "C:\\Users\\nince\\source\\repos\\zadatak1\\zadatak1\\zad1.c",
-              "RelativeDocumentMoniker": "zadatak1\\zad1.c",
-              "ToolTip": "C:\\Users\\nince\\source\\repos\\zadatak1\\zadatak1\\zad1.c",
-              "RelativeToolTip": "zadatak1\\zad1.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-14T11:20:20.935Z",
+              "Title": "imena.txt",
+              "DocumentMoniker": "C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\zadatak1\\imena.txt",
+              "RelativeDocumentMoniker": "zadatak1\\imena.txt",
+              "ToolTip": "C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\zadatak1\\imena.txt",
+              "RelativeToolTip": "zadatak1\\imena.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-14T11:58:18.371Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zad1.c",
+              "DocumentMoniker": "C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\zadatak1\\zad1.c",
+              "RelativeDocumentMoniker": "zadatak1\\zad1.c",
+              "ToolTip": "C:\\Users\\nince\\Desktop\\StrukturePodataka\\zadatak1\\zadatak1\\zad1.c",
+              "RelativeToolTip": "zadatak1\\zad1.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T11:20:20.935Z"
             }
           ]
         }
