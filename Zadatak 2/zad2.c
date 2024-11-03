@@ -9,7 +9,7 @@ typedef struct _person {
 	char fname[20];
 	char lname[20];
 	int byear;
-	
+
 	position next;
 
 }person;
@@ -46,7 +46,7 @@ int main() {
 
 	printf("enter the data you want to add to the BEGINNING of the list\n");
 	scanf("%s %s %d", firstname, lastname, &birthyear);
-	prepend (head, firstname, lastname, birthyear);
+	prepend(head, firstname, lastname, birthyear);
 
 	printf("\nlist now looks like this (1) :\n");
 	print_list(head);
@@ -67,8 +67,8 @@ int main() {
 	if (last_person == NULL) {
 		printf("no person with such last name");
 	}
-	else { 
-		print_person(last_person); 
+	else {
+		print_person(last_person);
 	}
 
 	printf("\nenter the first name of the person you want to delete\n");
@@ -92,7 +92,7 @@ int main() {
 
 }
 
-position create_person( char* firstname, char* lastname, int birthyear) {
+position create_person(char* firstname, char* lastname, int birthyear) {
 	position new_person = NULL;
 	new_person = (person*)malloc(sizeof(person));
 	if (new_person == NULL) {
@@ -133,14 +133,14 @@ int prepend(position head, char* firstname, char* lastname, int birthyear) {
 	}
 
 	new_person->next = head->next;
-	head->next = new_person;  
+	head->next = new_person;
 
 	return EXIT_SUCCESS;
 }
 
 int append(position head, char* firstname, char* lastname, int birthyear) {
 	position new_person = create_person(firstname, lastname, birthyear);
-	
+
 	position temp = head;
 	while (temp->next != NULL) {
 		temp = temp->next;
@@ -149,7 +149,7 @@ int append(position head, char* firstname, char* lastname, int birthyear) {
 
 
 
-return EXIT_SUCCESS;
+	return EXIT_SUCCESS;
 
 }
 
